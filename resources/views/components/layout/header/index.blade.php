@@ -18,7 +18,7 @@
                 </li>
                 <li><a href="#" class="hover:text-gray-400">Create blogs</a></li>
                 <li><a href="/about" class="hover:text-gray-400">About us</a></li>
-                <li><a href="#" class="hover:text-gray-400">Contact us</a></li>
+                <li><a href="/contact" class="hover:text-gray-400">Contact us</a></li>
             </ul>
 
             <div>

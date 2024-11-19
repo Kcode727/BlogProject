@@ -12,7 +12,8 @@ export default {
     theme: {
         extend: {
             backgroundImage: {
-                'hero-pattern': "url('/public/about.jpg')", // Replace with your image path
+                'hero-pattern': "url('/public/about.jpg')", 
+                'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
               },
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
